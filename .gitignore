@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+product_report.xlsx
+automation.log
+.idea/
+*.xlsx
