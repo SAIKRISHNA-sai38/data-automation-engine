@@ -45,3 +45,9 @@ data-automation-engine/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## Dashboard Preview
+
+The generated Excel report includes a data summary dashboard and product price comparison chart.
+
+![Data Automation Dashboard](dashboard.png)
